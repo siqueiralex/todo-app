@@ -1,0 +1,10 @@
+[
+    {
+        "model": "testapp.test",
+        "pk": 1,
+        "fields": {
+            "test": "test"
+        }
+    }
+    
+]
